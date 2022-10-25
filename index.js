@@ -17,6 +17,14 @@ app.get("/courses", (req, res) => {
   res.send(data);
 });
 
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  if (id > 0 && id < 7) {
+    const course = require(`./data/course-${req.params.id}.json`);
+    res.send(course);
+  } else res.send(null);
+});
+
 app.get("/", (req, res) => {
   res.send(`Server running on port ${port} successfully.`);
 });
