@@ -1,6 +1,10 @@
 {
   "id": 6,
-  "title": "",
-  "desc": "",
-  "bulletPoints": []
+  "title": "You're going to rock at making layouts.",
+  "desc": "Learn how to build beautiful layouts with CSS in our new Interactive Course taught by Gary Simon.",
+  "bulletPoints": [
+    "Hours worth of video instructional by Gary Simon",
+    "Interactive code tests are a fun way to CSS properties",
+    "Challenge yourself by tackling layouts designed in Figma."
+  ]
 }
