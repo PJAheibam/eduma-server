@@ -5,7 +5,7 @@ const courses = require("./data/courses.json");
 const app = express();
 const port = 5000;
 
-app.use(cors);
+app.use(cors());
 
 app.get("/courses", (req, res) => {
   res.send(courses);
@@ -16,5 +16,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Eduma server is successfully on port localhost:${port}`);
+  console.log(`Eduma server is successfully on port ${port}`);
 });
