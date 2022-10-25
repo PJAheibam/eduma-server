@@ -2,5 +2,12 @@
   "id": 3,
   "title": "Fellowship Program In Software Development",
   "desc": "Learn with Real Work-Ex. Join the best product-based companies with guaranteed placement. Work Experience-Based Learning Approach To Master In-Demand Developer Skills.",
-  "bulletPoints": []
+  "bulletPoints": [
+    "20+ micro skilling exercises & 5+ work-like professional projects to master CS Fundamentals and Full-Stack or Backend skills in an actual developer environment.",
+    "In-depth, interview-focussed System Design & Data Structures Algorithms curriculum to ace dev interviews.",
+    "Real work ex of working on problem statements from leading tech companies like CRED, Playment, Jumbotail, Vicara and more.",
+    "9+ live sessions every month with well-structured interactive workshops from seasoned industry professionals.",
+    "Project-backed portfolio on GitHub and a work-ex certificate to impress recruiters.",
+    "Placement guarantee with job-search support, referrals, and career guidance from experienced career coaches."
+  ]
 }
