@@ -1,6 +1,10 @@
 {
   "id": 5,
-  "title": "",
-  "desc": "",
-  "bulletPoints": []
+  "title": "Kickstart your UI/UX Design Career",
+  "desc": "Our Interactive UI/UX Course will help you design better & earn more",
+  "bulletPoints": [
+    "Learn by video by watching Gary Simon",
+    "Interactive UI tests are a fun way to learn fundamentals.",
+    "Receive real feedback & guidance for your design submissions."
+  ]
 }
