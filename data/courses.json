@@ -1,32 +1,38 @@
 [
   {
     "id": 1,
+    "imageURL": "/icons/full-stack-web-dev.png",
     "courseName": "Full Stack Developer Program",
     "desc": "Become a skilled Full Stack developer with hands-on experience in Javascript and MERN stack."
   },
   {
     "id": 2,
+    "imageURL": "/icons/backend-dev.png",
     "courseName": "Backend Developer Program",
     "desc": "Become a skilled Backend developer with hands-on experience in building a scalable web backend."
   },
   {
     "id": 3,
+    "imageURL": "/icons/software-dev.png",
     "courseName": "Fellowship Program in Software Development",
     "desc": "Upskill and land your dream career as a coveted Full-Stack or Backend developer - Guaranteed!"
   },
   {
     "id": 4,
+    "imageURL": "/icons/automation.png",
     "courseName": "Masters Program in QA Automation",
     "desc": "Get practical work experience of automation testing & get software testing roles in top companies- Guaranteed!"
   },
   {
     "id": 5,
     "courseName": "CSS",
+    "imageURL": "/icons/css.png",
     "desc": "Learn how to build responsive layouts with Flexbox and the Grid with our interactive course platform."
   },
   {
     "id": 6,
     "courseName": "UI/UX Full Course",
+    "imageURL": "/icons/ui-ux-1.png",
     "desc": "Learn how to design beautiful UIs in Figma with our interactive course platform."
   }
 ]
