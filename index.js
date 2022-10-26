@@ -8,6 +8,7 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 app.use("/icons", express.static("./assets/icons"));
+app.use("/images", express.static("./assets/images"));
 
 app.get("/courses", (req, res) => {
   const data = courses.map((course) => ({
