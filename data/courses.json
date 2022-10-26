@@ -1,24 +1,28 @@
 [
   {
     "id": 1,
+    "price": "$80",
     "imageURL": "/icons/full-stack-web-dev.png",
     "name": "Full Stack Developer Program",
     "desc": "Become a skilled Full Stack developer with hands-on experience in Javascript and MERN stack."
   },
   {
     "id": 2,
+    "price": "$85",
     "imageURL": "/icons/backend-dev.png",
     "name": "Backend Developer Program",
     "desc": "Become a skilled Backend developer with hands-on experience in building a scalable web backend."
   },
   {
     "id": 3,
+    "price": "$90",
     "imageURL": "/icons/software-dev.png",
     "name": "Fellowship Program in Software Development",
     "desc": "Upskill and land your dream career as a coveted Full-Stack or Backend developer - Guaranteed!"
   },
   {
     "id": 4,
+    "price": "$70",
     "imageURL": "/icons/automation.png",
     "name": "Masters Program in QA Automation",
     "desc": "Get practical work experience of automation testing & get software testing roles in top companies- Guaranteed!"
@@ -26,11 +30,13 @@
   {
     "id": 5,
     "name": "CSS",
+    "price": "$60",
     "imageURL": "/icons/css.png",
     "desc": "Learn how to build responsive layouts with Flexbox and the Grid with our interactive course platform."
   },
   {
     "id": 6,
+    "price": "$80",
     "name": "UI/UX Full Course",
     "imageURL": "/icons/ui-ux-1.png",
     "desc": "Learn how to design beautiful UIs in Figma with our interactive course platform."
