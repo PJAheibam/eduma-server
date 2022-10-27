@@ -1,6 +1,7 @@
 {
   "id": 5,
   "price": "$60",
+  "imageURL": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
   "title": "Kickstart your UI/UX Design Career",
   "desc": "Our Interactive UI/UX Course will help you design better & earn more",
   "bulletPoints": [

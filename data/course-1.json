@@ -1,6 +1,7 @@
 {
   "id": 1,
   "price": "$80",
+  "imageURL": "https://st2.depositphotos.com/5524162/50464/v/450/depositphotos_504648504-stock-illustration-full-stack-developer-working-on.jpg",
   "title": "Full Stack Development Program With Real Work-Ex",
   "desc": "Master full stack development like engineers working in Netflix Amazon, Flipkart and Google. Build professional work-like projects to master React, Node JS, MongoDB, Javascript, and more to land a top career as a full-stack developer.",
   "bulletPoints": [

@@ -2,14 +2,14 @@
   {
     "id": 1,
     "price": "$80",
-    "imageURL": "/icons/full-stack-web-dev.png",
+    "imageURL": "https://st2.depositphotos.com/5524162/50464/v/450/depositphotos_504648504-stock-illustration-full-stack-developer-working-on.jpg",
     "name": "Full Stack Developer Program",
     "desc": "Become a skilled Full Stack developer with hands-on experience in Javascript and MERN stack."
   },
   {
     "id": 2,
     "price": "$85",
-    "imageURL": "/icons/backend-dev.png",
+    "imageURL": "https://www.liveabout.com/thmb/9Sopiy7lPYuNupcE0phtf2utNHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/backenddeveloper-2502825a14ff440eb775dc4244e7ed4d.png",
     "name": "Backend Developer Program",
     "desc": "Become a skilled Backend developer with hands-on experience in building a scalable web backend."
   },
@@ -23,7 +23,7 @@
   {
     "id": 4,
     "price": "$70",
-    "imageURL": "/icons/automation.png",
+    "imageURL": "https://contentstatic.techgig.com/thumb/msid-79198520,width-460,resizemode-4/Software-engineer-vs-Network-engineer-Find-out-which-one-is-for-you.jpg?119058",
     "name": "Masters Program in QA Automation",
     "desc": "Get practical work experience of automation testing & get software testing roles in top companies- Guaranteed!"
   },
@@ -31,14 +31,14 @@
     "id": 5,
     "name": "CSS",
     "price": "$60",
-    "imageURL": "/icons/css.png",
+    "imageURL": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
     "desc": "Learn how to build responsive layouts with Flexbox and the Grid with our interactive course platform."
   },
   {
     "id": 6,
     "price": "$80",
     "name": "UI/UX Full Course",
-    "imageURL": "/icons/ui-ux-1.png",
+    "imageURL": "https://img.freepik.com/free-vector/realistic-ui-ux-background_52683-69487.jpg?t=st=1666894433~exp=1666895033~hmac=98ccca9f902432d26fd88da03056faa46543c6b195a93958543e1664ab1ef86d",
     "desc": "Learn how to design beautiful UIs in Figma with our interactive course platform."
   }
 ]
