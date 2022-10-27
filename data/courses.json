@@ -16,7 +16,7 @@
   {
     "id": 3,
     "price": "$90",
-    "imageURL": "/icons/software-dev.png",
+    "imageURL": "https://mondaymorning.nitrkl.ac.in/_next/image?url=https%3A%2F%2Fik.imagekit.io%2FadamantiumA%2Farticle%2Fcover%2F629dbfbe1acb2c3831ab57e4.jpeg&w=1920&q=75",
     "name": "Fellowship Program in Software Development",
     "desc": "Upskill and land your dream career as a coveted Full-Stack or Backend developer - Guaranteed!"
   },

@@ -8,11 +8,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 app.get("/courses", (req, res) => {
-  const data = courses.map((course) => ({
-    ...course,
-    imageURL: process.env.ROOT_URL + course.imageURL,
-  }));
-  res.send(data);
+  res.send(courses);
 });
 
 app.get("/courses/:id", (req, res) => {
