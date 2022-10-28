@@ -29,16 +29,16 @@
   },
   {
     "id": 5,
-    "name": "CSS",
-    "price": "$60",
-    "imageURL": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
-    "desc": "Learn how to build responsive layouts with Flexbox and the Grid with our interactive course platform."
-  },
-  {
-    "id": 6,
     "price": "$80",
     "name": "UI/UX Full Course",
     "imageURL": "https://img.freepik.com/free-vector/realistic-ui-ux-background_52683-69487.jpg?t=st=1666894433~exp=1666895033~hmac=98ccca9f902432d26fd88da03056faa46543c6b195a93958543e1664ab1ef86d",
     "desc": "Learn how to design beautiful UIs in Figma with our interactive course platform."
+  },
+  {
+    "id": 6,
+    "name": "Master in CSS",
+    "price": "$60",
+    "imageURL": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
+    "desc": "Learn how to build responsive layouts with Flexbox and the Grid with our interactive course platform."
   }
 ]
