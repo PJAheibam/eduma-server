@@ -2,5 +2,26 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
-  }
+  },
+  "name": "eduma-server",
+  "description": "��#\u0000 \u0000E\u0000d\u0000u\u0000m\u0000a\u0000 \u0000S\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJAheibam/eduma-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PJAheibam/eduma-server/issues"
+  },
+  "homepage": "https://github.com/PJAheibam/eduma-server#readme"
 }

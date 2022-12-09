@@ -24,5 +24,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Eduma server is successfully on port ${port}`);
+  console.log(`Eduma server is successfully on port - ${port}`);
 });
